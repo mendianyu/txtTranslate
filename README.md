@@ -1,5 +1,5 @@
 # txtTranslate
-文本翻译GUI程序，实现简单的英汉互译
+文本翻译GUI程序，实现简单的英汉互译  
 项目结构  三个java文件加一个pom文件  
 <img width="199" alt="image" src="https://github.com/mendianyu/txtTranslate/assets/125875687/ff406121-3f01-4ba6-9798-2d6a5c5b1e49">
   
