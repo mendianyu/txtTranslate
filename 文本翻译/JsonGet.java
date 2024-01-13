@@ -20,8 +20,8 @@ public class JsonGet
             map.put("q", q);
 
             String param = com.alibaba.fastjson2.JSON.toJSONString(map);
-
-            String accessToken = "24.c51ba07105623ec6a5767e18e87c1bc4.2592000.1707725152.282335-43853160";
+            //将token替换为自己的
+            String accessToken = "24.c51ba07105623ec6a5767e18e87c1bc4.2592000.1707725152.282335-438531";
 
 
             String result = HttpUtil.post(url, accessToken, "application/json", param);
